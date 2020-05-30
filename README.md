@@ -7,3 +7,4 @@ It is an iterative procedure where we search the pixel for the required color an
 
 
 The screenshot provided at the folder shows my result of the algroithm
+![](https://github.com/sagniknitr/color-correction/blob/master/Screenshot%20from%202015-12-16%2004:51:07.png)
