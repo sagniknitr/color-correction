@@ -16,3 +16,13 @@ Here is another result for getting the mask of the path after thresholding
 ![](resources/output2.png)
 
 For more information on the algorithm used you can refere this [paper](https://drive.google.com/file/d/1VkOpqnGE1tqGU0QJa7udORuU3nDu9RnW/view?usp=sharing)
+
+# Algorithms
+## Retinex
+## RL Deconvolution
+
+Input image    
+![alt text](https://github.com/2vin/color-correction/blob/master/data/portrait.jpg)
+
+Output Image    
+![alt text](https://github.com/2vin/color-correction/blob/master/data/result.jpg)
